@@ -30,8 +30,9 @@ Note: No build tools required — the project uses Tailwind via CDN.
 
 ## 👨‍💻 Author
 
-Ibrahim Abu-Assad
+Ibrahim Abu-Asaad
 
-* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-assad-4b636b32b/)
-* [GitHub](https://github.com/Ibrahim-Abu-Assad)
+* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-asaad-4b636b32b/)
+* 
+* [GitHub](https://github.com/Ibrahim-Abu-Asaad)
 
