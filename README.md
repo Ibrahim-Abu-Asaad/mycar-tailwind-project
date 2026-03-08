@@ -32,7 +32,7 @@ Note: No build tools required — the project uses Tailwind via CDN.
 
 Ibrahim Abu-Asaad
 
-* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-asaad-4b636b32b/)
-* 
+* [LinkedIn](https://www.linkedin.com/in/ibrahim-abu-asaad-42676a395/)
+
 * [GitHub](https://github.com/Ibrahim-Abu-Asaad)
 
